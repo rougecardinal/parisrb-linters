@@ -1,6 +1,11 @@
   @thomasdarde
   github:
 
+  # Linters
+    Programme d'aide à l'écriture de code, permettant de respecter un style.
+
+  # Voir dernier commit
+
   # Sublime text
     Pref/Settings/Users
     Save
