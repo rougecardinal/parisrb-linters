@@ -1,0 +1,41 @@
+  @thomasdarde
+  github:
+
+  # Sublime text
+    Pref/Settings/Users
+    Save
+    Git
+
+      "save_on_focus_lost": true,
+      "tab_size": 2,
+      "translate_tabs_to_spaces": true,
+      "trim_trailing_white_space_on_save": true
+
+
+  # Linters: Rubocop
+    Rubocop
+      gem install rubocop
+      rubocop
+      rubocop -a
+
+  # Sublime linter
+    Package controller:
+      sublimelinter
+      sublimelinter rubocop
+
+    Command pannel: rubocop
+
+
+  # Personnalisation
+    https://github.com/bbatsov/rubocop/
+    rubocop -a
+    rubocop.yml
+
+
+  # Issues
+    https://github.com/bbatsov/rubocop/issues/950
+
+
+  # autre linters
+    https://github.com/showcases/clean-code-linters
+    https://github.com/SublimeLinter/SublimeLinter3
