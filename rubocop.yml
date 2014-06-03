@@ -1,0 +1,41 @@
+LineLength:
+  Max: 120
+
+# Not needed
+
+Documentation:
+  Enabled: false
+
+TrailingComma:
+  Enabled: false
+
+# Generate errors
+
+RedundantSelf:
+  Enabled: false
+
+# Multi-line blocks {} are ok
+Blocks:
+  Enabled: false
+
+AndOr:
+  Enabled: false
+
+AsciiComments:
+  Enabled: false
+
+CollectionMethods:
+  PreferredMethods:
+    collect: 'map'
+    collect!: 'map!'
+    inject: 'reduce'
+    detect: 'detect' # Find and detect are != in rails
+    find_all: 'select'
+
+
+# TRUE Only if auto
+StringLiterals:
+  Enabled: false
+
+WordArray:
+  Enabled: false

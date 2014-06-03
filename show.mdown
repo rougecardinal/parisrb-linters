@@ -1,8 +1,7 @@
   @thomasdarde
-  github:
 
   # Linters
-    Programme d'aide à l'écriture de code, permettant de respecter un style.
+    Programme d'aide à l'écriture de code, permettant de respecter des règles de style.
 
   # Voir dernier commit
 
@@ -19,6 +18,8 @@
 
   # Linters: Rubocop
     Rubocop
+      https://github.com/bbatsov/rubocop/
+
       gem install rubocop
       rubocop
       rubocop -a
@@ -32,8 +33,6 @@
 
 
   # Personnalisation
-    https://github.com/bbatsov/rubocop/
-    rubocop -a
     rubocop.yml
 
 
