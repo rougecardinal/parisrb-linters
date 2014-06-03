@@ -1,9 +1,16 @@
   @thomasdarde
 
   # Linters
-    Programme d'aide à l'écriture de code, permettant de respecter des règles de style.
+    Aide à l'écriture de code, permettant de respecter des règles de style.
 
-  # Voir dernier commit
+
+
+
+
+  # Voir commit
+
+
+
 
   # Sublime text
     Pref/Settings/Users
