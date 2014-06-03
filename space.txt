@@ -1,1 +1,2 @@
-Cette phrase est commitée. 
+Cette phrase est commitée.
+Celle est en cours.
